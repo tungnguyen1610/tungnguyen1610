@@ -24,8 +24,8 @@ I'm Tung Nguyen — a passionate electronics and embedded systems enthusiast wit
 - 📧 Email: nguyenhoangtung1610@gmail.com
 - 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/tungbud/))
 
-### ⚡ Fun fact
-I love solving hardware-software integration problems and can spend hours debugging without noticing the time go by!
+### ⚡ Hobbies
+I enjoy playing all kinds of sports — from team games to individual challenges, staying active is something I truly love.
 
 ---
 
