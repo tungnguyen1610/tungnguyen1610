@@ -3,6 +3,7 @@
 I'm Tung Nguyen — a passionate electronics and embedded systems enthusiast with a strong interest in developing reliable, efficient, and scalable embedded solutions.
 
 ### 🚗 What I do
+- I am enthusiastic in digital electronics, hardware design. 
 - I work in the **automotive industry**, with hands-on experience in **AUTOSAR**, **CAN** protocol, and various other **automotive communication protocols**.
 - I'm doing research project in clock synchronization in distributed system. 
 
