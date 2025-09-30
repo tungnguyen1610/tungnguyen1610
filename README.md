@@ -28,5 +28,17 @@ I'm Tung Nguyen — a passionate electronics and embedded systems enthusiast wit
 I enjoy playing all kinds of sports — from team games to individual challenges, staying active is something I truly love.
 
 ---
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,vscode,cs,github,powershell,html,css &perline=10" />
+  </a>
+</p>
 Thanks for visiting! Feel free to explore my repositories and reach out if you want to connect or collaborate 🤝
